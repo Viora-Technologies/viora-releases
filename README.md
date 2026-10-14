@@ -1,9 +1,11 @@
-<img width="4344" height="1600" alt="image" src="https://github.com/user-attachments/assets/1ab73cb3-8750-40f8-bc10-f599edb4aa76" />
+<div align="center">
+    <img src="https://i.imgur.com/zvxEr9C.png" width="1000">
+</div>
 
-Signed release APKs for the Viora Android app, published automatically.
+### Signed release APKs for the Viora Android app, published automatically.
 Download them from the [Releases](../../releases) page and verify with `SHA256SUMS.txt`.
 
-## Install/Update with Obtainium
+### Install/Update with Obtainium
 1. On your phone, tap the badge above, or in [Obtainium](https://obtainium.imranr.dev/) choose *Add App* and paste:
    `https://github.com/SVUI-Labs/viora-releases`
 2. Each release has more than one APK, so set **Filter APKs by regex**:
