@@ -1,4 +1,4 @@
-# Viora releases
+<img width="4344" height="1600" alt="image" src="https://github.com/user-attachments/assets/1ab73cb3-8750-40f8-bc10-f599edb4aa76" />
 
 Signed release APKs for the Viora Android app, published automatically.
 Download them from the [Releases](../../releases) page and verify with `SHA256SUMS.txt`.
